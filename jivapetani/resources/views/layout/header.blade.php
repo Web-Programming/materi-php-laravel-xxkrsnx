@@ -10,7 +10,7 @@
             </li>
             <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
             <li class="nav-item"><a href="#tentang" class="nav-link">Tentang</a></li>
-            <li class="nav-item"><a href="#alumni" class="nav-link">Alumni</a></li>
+            <li class="nav-item"><a href="#alumni" class="nav-link">Testimoni</a></li>
 
         </ul>
         <!--end::Start Navbar Links-->
@@ -34,16 +34,16 @@
             <!-- User Dropdown Menu -->
             <li class="nav-item dropdown user-menu">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
-                    <img src="{{ asset('img/irfan.jpg') }}" class="user-image img-circle elevation-2" alt="User Image">
-                    <span class="d-none d-md-inline">Muhammad Irfan</span>
+                    <img src="{{ asset('img/Krisna.jpeg') }}" class="user-image img-circle elevation-2" alt="User Image">
+                    <span class="d-none d-md-inline">Muhammad Krisna Pramudya</span>
                 </a>
                 <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                     <!-- User image -->
                     <li class="user-header bg-primary">
-                        <img src="{{ asset('img/irfan.jpg') }}" class="img-circle elevation-2" alt="User Image">
+                        <img src="{{ asset('img/Krisna.jpeg') }}" class="img-circle elevation-2" alt="User Image">
 
                         <p>
-                            Muhammad Irfan - Mahasiswa
+                            Muhammad Krisna Pramudya - Mahasiswa
                             <small>Since. 2024</small>
                         </p>
                     </li>
